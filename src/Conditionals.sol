@@ -10,7 +10,7 @@ contract Conditionals {
         } else if(value < 0){
             result="Negative value";
         } else {
-            result="Zero";
+            result="Zero value";
         }
         return result;
     }
